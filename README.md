@@ -26,8 +26,8 @@ Philippe Costa Lamounier | philippelamounier@gmail.com | 12104822
 
 ### Tarefa 2 - Diagrama de Caso de Uso e Atividade
 
-- [ ] Elaborar 4 casos de Uso Descritivo sobre o contexto dos requisitos levantados na Tarefa 1.
->
+- [x] Elaborar 4 casos de Uso Descritivo sobre o contexto dos requisitos levantados na Tarefa 1.
+> https://github.com/paulofigures/prontopet/blob/main/docs/CasoDeUso/Caso_de_Uso_Descritivo.docx
 - [ ] Elaborar Diagramas de Caso de Uso sobre cada Caso de Uso Descritivo do tópico 1, total 4 diagramas.
 >
 - [ ] Elaborar Diagramas de Atividade sobre cada Caso de Uso Descritivo do tópico 1, total 4 diagramas.
