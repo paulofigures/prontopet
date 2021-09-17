@@ -27,9 +27,10 @@ Philippe Costa Lamounier | philippelamounier@gmail.com | 12104822
 ### Tarefa 2 - Diagrama de Caso de Uso e Atividade
 
 - [x] Elaborar 4 casos de Uso Descritivo sobre o contexto dos requisitos levantados na Tarefa 1.
-> https://github.com/paulofigures/prontopet/blob/main/docs/CasoDeUso/Caso_de_Uso_Descritivo.docx
+> https://github.com/paulofigures/prontopet/blob/main/docs/CasoDeUso/Caso_de_Uso_Descritivo.pdf
 - [ ] Elaborar Diagramas de Caso de Uso sobre cada Caso de Uso Descritivo do tópico 1, total 4 diagramas.
->
+> https://github.com/paulofigures/prontopet/blob/main/docs/CasoDeUso/Diagramas%20UML/UC001-%20Processo%20de%20autentica%C3%A7%C3%A3oLogin%20na%20aplica%C3%A7%C3%A3o.pdf
+> https://github.com/paulofigures/prontopet/blob/main/docs/CasoDeUso/Diagramas%20UML/UC002-%20Dados%20da%20Conta.pdf
 - [ ] Elaborar Diagramas de Atividade sobre cada Caso de Uso Descritivo do tópico 1, total 4 diagramas.
 >
 
