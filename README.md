@@ -34,9 +34,11 @@ Philippe Costa Lamounier | philippelamounier@gmail.com | 12104822
 > 1. UC002- Dados da Conta: 
 > https://github.com/paulofigures/prontopet/blob/main/docs/CasoDeUso/Diagramas%20UML/UC002-%20Dados%20da%20Conta.pdf
 > 1. UC003- Ofertas de Produtos:
-> 1. UC004- Meus Pets
+> https://github.com/paulofigures/prontopet/blob/main/docs/CasoDeUso/Diagramas%20UML/UC003-%20Ofertas%20de%20Produtos.pdf
+> 1. UC004- Meus Pets:
+> https://github.com/paulofigures/prontopet/blob/main/docs/CasoDeUso/Diagramas%20UML/UC004-%20Meus%20Pets.pdf
 - [ ] Elaborar Diagramas de Atividade sobre cada Caso de Uso Descritivo do tópico 1, total 4 diagramas.
->
+> 
 
 
 
