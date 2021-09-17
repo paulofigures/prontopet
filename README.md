@@ -38,7 +38,7 @@ Philippe Costa Lamounier | philippelamounier@gmail.com | 12104822
 > 1. UC004- Meus Pets:
 > [Ir para o documento](https://github.com/paulofigures/prontopet/blob/main/docs/CasoDeUso/Diagramas%20UML/Casos%20de%20uso/UC004-%20Meus%20Pets.pdf)
 - [x] Elaborar Diagramas de Atividade sobre cada Caso de Uso Descritivo do tópico 1, total 4 diagramas.
-> > 1. UC001- Processo de autenticação/Login na aplicação: 
+>  1. UC001- Processo de autenticação/Login na aplicação: 
 > [Ir para o documento](https://github.com/paulofigures/prontopet/blob/main/docs/CasoDeUso/Diagramas%20UML/Casos%20de%20atividade/UC001-%20Processo%20de%20autentica%C3%A7%C3%A3o.pdf)
 > 1. UC002- Dados da Conta: 
 > [Ir para o documento](https://github.com/paulofigures/prontopet/blob/main/docs/CasoDeUso/Diagramas%20UML/Casos%20de%20atividade/UC002-%20Dados%20da%20Conta.pdf)
