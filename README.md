@@ -51,8 +51,8 @@ Philippe Costa Lamounier | philippelamounier@gmail.com | 12104822
 
 ### Tarefa 3 - Diagrama de Classe e Objeto
 
-- [ ] Elaborar um Diagrama de Classe de todo Projeto
->
+- [x] Elaborar um Diagrama de Classe de todo Projeto
+> [Ir para o documento](https://github.com/paulofigures/prontopet/blob/main/docs/diagramaClasses/UML%20class.pdf)
 - [ ] Elaborar um Diagrama de Objeto representando parte do Diagrama de Classe
 
 
