@@ -57,6 +57,17 @@ Philippe Costa Lamounier | philippelamounier@gmail.com | 12104822
 > [Ir para o documento](https://github.com/paulofigures/prontopet/blob/main/docs/diagramaClasses/Diagrama%20de%20objetos/DiagramaObjetoAnimal.pdf)
 
 
+### Tarefa 4 - Diagrama de Classe e Objeto
+
+- [X] Fazer o DER (Diagrama de Entidade e Relacionamento) do Projeto Integrador (notação pé de galinha).
+> [Ir para o documento](https://github.com/paulofigures/prontopet/blob/main/bancoDeDados/diagramaDoBanco.pdf)
+- [X] Gerar o Script de criação do Banco de Dados e das tabelas.
+> [Ir para SQL](https://github.com/paulofigures/prontopet/blob/main/bancoDeDados/SQL/DDL.sql)
+
+
+### Tarefa 5 - A Tarefa consiste em implementar em Java (Orientado a Objetos) as classes do Projeto Integrador.
+
+- [ ] Em adamento.
 
 
 
