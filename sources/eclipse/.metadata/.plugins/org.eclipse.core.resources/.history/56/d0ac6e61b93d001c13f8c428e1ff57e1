@@ -1,0 +1,16 @@
+package prontopet.base;
+
+import java.sql.Date;
+
+import javax.xml.crypto.Data;
+
+public class animal {
+
+	int id;
+	String nome;
+	String raca;
+	String sexo;
+	String cor;
+	Data nascimento;
+	
+}

@@ -1,0 +1,10 @@
+package prontopet.base;
+
+public class pessoa {
+	
+	int id;
+	int idade;
+	String nome;
+	String nomaApelido;
+
+}

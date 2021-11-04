@@ -1,0 +1,8 @@
+package prontopet.base;
+
+public class pessoa {
+	
+	int idade;
+	String name;
+
+}

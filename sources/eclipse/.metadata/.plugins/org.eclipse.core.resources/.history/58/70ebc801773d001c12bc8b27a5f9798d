@@ -1,0 +1,9 @@
+package prontopet.base;
+
+public class pessoa {
+	private int idTipo_usuario;
+	private Long idPessoa;
+	private String name;
+	private String nameApelido;
+	
+}

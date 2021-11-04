@@ -1,0 +1,18 @@
+package prontopet.base;
+
+import java.math.BigDecimal;
+import java.sql.Date;
+
+public class animal {
+
+	int id;
+	String usuario;
+	String nome;
+	String raca;
+	String sexo;
+	String cor;
+	BigDecimal peso;
+	BigDecimal altura;
+	Date nascimento;
+	
+}

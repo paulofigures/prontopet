@@ -1,0 +1,13 @@
+package prontopet.base;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		pessoa p1 = new pessoa();
+		p1.idade = 19;
+		p1.nome = "Renato";
+	}
+
+}

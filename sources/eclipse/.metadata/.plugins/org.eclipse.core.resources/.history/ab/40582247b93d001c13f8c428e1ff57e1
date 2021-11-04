@@ -1,0 +1,9 @@
+package prontopet.base;
+
+public class animal {
+
+	int id;
+	String nome;
+	String nome;
+	String nome;
+}

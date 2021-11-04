@@ -1,0 +1,10 @@
+package prontopet.base;
+
+public class vacina {
+
+	int id;
+	String nome;
+	String loja;
+	animal animal;
+	
+}
