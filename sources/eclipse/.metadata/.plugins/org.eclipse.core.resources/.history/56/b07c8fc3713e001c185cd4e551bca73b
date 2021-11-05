@@ -1,0 +1,24 @@
+package model;
+
+public class usuario {
+	
+	private String login;
+	private String senha;
+	private String permissao;
+	
+	//Método construtor simples
+	public usuario() {
+		super();
+	}
+
+	//Método construtor completo
+	public usuario(String login, String senha, String permissao) {
+		super();
+		this.login = login;
+		this.senha = senha;
+		this.permissao = permissao;
+	}
+	
+	
+	
+}

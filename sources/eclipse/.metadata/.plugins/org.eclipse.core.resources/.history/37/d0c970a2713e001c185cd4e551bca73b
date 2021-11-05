@@ -1,0 +1,16 @@
+package model;
+
+public class usuario {
+	
+	private String login;
+	private String senha;
+	private String permissao;
+	
+	//Método construtor simples
+	public usuario() {
+		super();
+	}
+	
+	
+	
+}

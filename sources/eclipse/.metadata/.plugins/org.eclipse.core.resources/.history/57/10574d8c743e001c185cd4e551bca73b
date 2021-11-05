@@ -1,0 +1,13 @@
+package controller;
+
+import model.usuario;
+
+public class gerenciamentoUsuario {
+	
+	public static void main(String[] args) {
+		
+		usuario u1 = new usuario("paulofigures", "teste123", "master");
+		System.out.println(u1.getLogin(); u1.getSenha(););		
+
+	}
+}

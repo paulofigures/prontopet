@@ -1,0 +1,12 @@
+package controller;
+
+import model.usuario;
+
+public class gerenciamentoUsuario {
+	
+	public static void main(String[] args) {
+		
+		usuario c1 = new usuario("paulofigures", "teste123", "master");
+
+	}
+}

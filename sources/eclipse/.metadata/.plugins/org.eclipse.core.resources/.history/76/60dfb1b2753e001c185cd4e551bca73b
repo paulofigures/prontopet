@@ -1,0 +1,18 @@
+package controller;
+
+import model.usuario;
+import model.pessoa;
+
+public class gerenciamentoUsuario {
+	
+	public static void main(String[] args) {
+		
+		usuario u1 = new usuario("paulofigures", "teste123", "master");
+		pessoa u1 = new pessoa("paulofigures", "teste123", "master");
+		
+		System.out.println(u1.getLogin());
+		System.out.println(u1.getPermissao());
+		System.out.println(u1.getSenha());
+
+	}
+}

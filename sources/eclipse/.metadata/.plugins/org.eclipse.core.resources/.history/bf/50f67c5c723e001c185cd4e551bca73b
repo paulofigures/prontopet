@@ -1,0 +1,12 @@
+package model;
+
+public class ongs {
+
+	private int id;
+	private String nome;
+	private String nomeFantasia;
+	private Double conta;
+	private Double agencia;
+	private Double telefone;
+	
+}

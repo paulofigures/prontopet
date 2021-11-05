@@ -1,0 +1,18 @@
+package model;
+
+public class empresa {
+
+	private int id;
+	private String nome;
+	private String descricao;
+	
+	public empresa(int id, String nome, String descricao) {
+		super();
+		this.id = id;
+		this.nome = nome;
+		this.descricao = descricao;
+	}
+	
+	
+	
+}

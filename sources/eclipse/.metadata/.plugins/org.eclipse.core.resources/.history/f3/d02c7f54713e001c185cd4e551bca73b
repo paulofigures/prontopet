@@ -1,0 +1,10 @@
+package model;
+
+public class pessoa {
+	
+	int id;
+	int idade;
+	String nome;
+	String nomaApelido;
+
+}
