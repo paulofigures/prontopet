@@ -67,8 +67,10 @@ Philippe Costa Lamounier | philippelamounier@gmail.com | 12104822
 
 ### Tarefa 5 - A Tarefa consiste em implementar em Java (Orientado a Objetos) as classes do Projeto Integrador.
 
-- [ ] Em adamento.
+- [X] [Acessar Classes](https://github.com/paulofigures/prontopet/tree/main/sources/eclipse/ProntoPet/src/model)
 
+### Tarefa 6 - Tarefa 6 - Testes Unitários
 
+- [X] [Acessar testes dos métodos das classes de "usuário" e "pessoa" ](https://github.com/paulofigures/prontopet/tree/main/sources/eclipse/ProntoPet/src/controller)
 
 
