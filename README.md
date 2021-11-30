@@ -76,5 +76,7 @@ Philippe Costa Lamounier | philippelamounier@gmail.com | 12104822
 ### Tarefa 7 - Prototipação de Alta Fidelidade, Teste AB e Pitch Deck
 
 - [X] [Acessar protótipo de alta fidelidade" ](https://xd.adobe.com/view/8675bd8c-9bc6-4de9-9e3f-04ca38481649-d326/?fullscreen)
+- [X] [Acessar teste A/B" ](https://xd.adobe.com/view/8675bd8c-9bc6-4de9-9e3f-04ca38481649-d326/?fullscreen)
+- [X] [Acessar pitch deck" ](https://xd.adobe.com/view/8675bd8c-9bc6-4de9-9e3f-04ca38481649-d326/?fullscreen)
 
 
