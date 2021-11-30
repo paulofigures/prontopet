@@ -69,8 +69,12 @@ Philippe Costa Lamounier | philippelamounier@gmail.com | 12104822
 
 - [X] [Acessar Classes](https://github.com/paulofigures/prontopet/tree/main/sources/eclipse/ProntoPet/src/model)
 
-### Tarefa 6 - Tarefa 6 - Testes Unitários
+### Tarefa 6 - Testes Unitários
 
 - [X] [Acessar testes dos métodos das classes de "usuário" e "pessoa" ](https://github.com/paulofigures/prontopet/tree/main/sources/eclipse/ProntoPet/src/controller)
+
+### Tarefa 7 - Prototipação de Alta Fidelidade, Teste AB e Pitch Deck
+
+- [X] [Acessar protótipo de alta fidelidade" ](https://xd.adobe.com/view/8675bd8c-9bc6-4de9-9e3f-04ca38481649-d326/?fullscreen)
 
 
